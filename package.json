@@ -1,0 +1,7 @@
+{
+	"name": "typescript-char",
+	"version": "0.0.0",
+	"files": ["Char.d.ts"],
+	"license": "Unlicense",
+	"repository": "mason-lang/typescript-char"
+}

@@ -1,0 +1,5 @@
+{
+	"name": "typescript-char",
+	"ignore": ["package.json", "readme.md"],
+	"license": "Unlicense"
+}
