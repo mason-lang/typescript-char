@@ -1,7 +1,13 @@
 {
 	"name": "typescript-char",
 	"version": "0.0.0",
-	"files": ["Char.d.ts"],
+	"files": ["index.d.ts"],
 	"license": "Unlicense",
-	"repository": "mason-lang/typescript-char"
+	"repository": "mason-lang/typescript-char",
+	"scripts": {
+		"test": "tsc test.ts && node test.js"
+	},
+	"devDependencies": {
+		"typescript": "^2"
+	}
 }
